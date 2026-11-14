@@ -24,7 +24,7 @@ export const STRINGS = {
     "path.label": "Profilo",
     "skills.label": "Competenze",
     "skills.title": "Competenze tecniche.",
-    "skills.legend": "Le voci in evidenza sono quelle che ho studiato o utilizzato di più; le altre sono conoscenze di base.",
+    "skills.legend": "Le voci in evidenza sono quelle che ho studiato o utilizzato di più, le altre sono conoscenze di base.",
     "projects.label": "Progetti",
     "projects.title": "Progetti.",
     "projects.intro": "Per ogni progetto indico il contesto e il mio contributo. Dove ho usato strumenti di AI, lo specifico.",
